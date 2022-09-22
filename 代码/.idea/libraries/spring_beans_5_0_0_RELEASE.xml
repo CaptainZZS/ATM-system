@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spring-beans-5.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/spring-beans-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-core-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-jdbc-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-tx-5.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

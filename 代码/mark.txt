@@ -1,0 +1,4 @@
+char[] password1=label2.getPassword();
+                String password1_get=String.valueOf(password1);
+                char[] password2=label4.getPassword();
+                String password2_get=String.valueOf(password2);

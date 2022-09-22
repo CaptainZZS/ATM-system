@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a00b7550-7570-4449-8f24-b41c4dfb27a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="266l7rV2rIFdI6pXfAoHmrVVbAC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82690\Desktop\bank_system\libs" />
+      <recent name="C:\Users\82690\Desktop\bank_system\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login_interface">
+    <configuration name="Login_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login_interface" />
+      <module name="bank_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Management_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Management_interface" />
+      <module name="bank_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Message1_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Message1_interface" />
+      <module name="bank_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Message2_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Message2_interface" />
+      <module name="bank_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo1" />
+      <module name="bank_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login_interface" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a00b7550-7570-4449-8f24-b41c4dfb27a7" name="Default Changelist" comment="" />
+      <created>1646751752697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646751752697</updated>
+      <workItem from="1646751754877" duration="8350000" />
+      <workItem from="1646787811303" duration="67661000" />
+      <workItem from="1646957364643" duration="7976000" />
+      <workItem from="1646966485155" duration="960000" />
+      <workItem from="1646985406888" duration="607000" />
+      <workItem from="1646986763891" duration="649000" />
+      <workItem from="1646987431156" duration="333000" />
+      <workItem from="1651890284646" duration="103000" />
+      <workItem from="1651890786726" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646837979371">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="486" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1469.864@0.0.1469.864" timestamp="1646837979371" />
+    <state x="539" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1646910960053">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state x="539" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1466.864@0.0.1466.864" timestamp="1646910960053" />
+    <state x="540" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1469.864@0.0.1469.864" timestamp="1646793384193" />
+    <state x="514" y="190" key="FileChooserDialogImpl" timestamp="1651891111198">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state x="514" y="190" key="FileChooserDialogImpl/0.0.1466.864/-1920.7.1920.1040@0.0.1466.864" timestamp="1651891111198" />
+    <state width="1424" height="163" key="GridCell.Tab.0.bottom" timestamp="1651892229329">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="163" key="GridCell.Tab.0.bottom/0.0.1466.864/-1920.7.1920.1040@0.0.1466.864" timestamp="1651892229329" />
+    <state width="1424" height="163" key="GridCell.Tab.0.bottom/0.0.1466.864@0.0.1466.864" timestamp="1646987767120" />
+    <state width="1426" height="163" key="GridCell.Tab.0.bottom/0.0.1469.864@0.0.1469.864" timestamp="1646892626153" />
+    <state width="1424" height="163" key="GridCell.Tab.0.center" timestamp="1651892229328">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="163" key="GridCell.Tab.0.center/0.0.1466.864/-1920.7.1920.1040@0.0.1466.864" timestamp="1651892229328" />
+    <state width="1424" height="163" key="GridCell.Tab.0.center/0.0.1466.864@0.0.1466.864" timestamp="1646987767120" />
+    <state width="1426" height="163" key="GridCell.Tab.0.center/0.0.1469.864@0.0.1469.864" timestamp="1646892626153" />
+    <state width="1424" height="163" key="GridCell.Tab.0.left" timestamp="1651892229327">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="163" key="GridCell.Tab.0.left/0.0.1466.864/-1920.7.1920.1040@0.0.1466.864" timestamp="1651892229327" />
+    <state width="1424" height="163" key="GridCell.Tab.0.left/0.0.1466.864@0.0.1466.864" timestamp="1646987767120" />
+    <state width="1426" height="163" key="GridCell.Tab.0.left/0.0.1469.864@0.0.1469.864" timestamp="1646892626153" />
+    <state width="1424" height="163" key="GridCell.Tab.0.right" timestamp="1651892229328">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="163" key="GridCell.Tab.0.right/0.0.1466.864/-1920.7.1920.1040@0.0.1466.864" timestamp="1651892229328" />
+    <state width="1424" height="163" key="GridCell.Tab.0.right/0.0.1466.864@0.0.1466.864" timestamp="1646987767120" />
+    <state width="1426" height="163" key="GridCell.Tab.0.right/0.0.1469.864@0.0.1469.864" timestamp="1646892626153" />
+    <state width="1424" height="277" key="GridCell.Tab.1.bottom" timestamp="1646933244772">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.bottom/0.0.1466.864@0.0.1466.864" timestamp="1646933244772" />
+    <state width="1426" height="277" key="GridCell.Tab.1.bottom/0.0.1469.864@0.0.1469.864" timestamp="1646796569569" />
+    <state width="1424" height="277" key="GridCell.Tab.1.center" timestamp="1646933244772">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.center/0.0.1466.864@0.0.1466.864" timestamp="1646933244772" />
+    <state width="1426" height="277" key="GridCell.Tab.1.center/0.0.1469.864@0.0.1469.864" timestamp="1646796569569" />
+    <state width="1424" height="277" key="GridCell.Tab.1.left" timestamp="1646933244772">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.left/0.0.1466.864@0.0.1466.864" timestamp="1646933244772" />
+    <state width="1426" height="277" key="GridCell.Tab.1.left/0.0.1469.864@0.0.1469.864" timestamp="1646796569569" />
+    <state width="1424" height="277" key="GridCell.Tab.1.right" timestamp="1646933244772">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.right/0.0.1466.864@0.0.1466.864" timestamp="1646933244772" />
+    <state width="1426" height="277" key="GridCell.Tab.1.right/0.0.1469.864@0.0.1469.864" timestamp="1646796569569" />
+    <state x="465" y="205" width="538" height="461" key="extract.method.dialog" timestamp="1646791418184">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="465" y="205" width="538" height="461" key="extract.method.dialog/0.0.1469.864@0.0.1469.864" timestamp="1646791418184" />
+    <state x="391" y="197" width="672" height="677" key="run.anything.popup" timestamp="1646899480623">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state x="391" y="197" width="672" height="677" key="run.anything.popup/0.0.1466.864@0.0.1466.864" timestamp="1646899480623" />
+    <state x="392" y="197" key="run.anything.popup/0.0.1469.864@0.0.1469.864" timestamp="1646888817811" />
+  </component>
+</project>
